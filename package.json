@@ -1,9 +1,23 @@
 {
-  "name": "node-db4-project",
+  "name": "db4-project",
   "version": "1.0.0",
   "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/BloomInstituteOfTechnology/node-db4-project.git"
+  },
+  "description": "Your assignment page on Canvas should contain instructions for submitting this project. If you are still unsure, reach out to School Staff.",
+  "bugs": {
+    "url": "https://github.com/BloomInstituteOfTechnology/node-db4-project/issues"
+  },
+  "homepage": "https://github.com/BloomInstituteOfTechnology/node-db4-project#readme",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3",
+    "knex": "^3.1.0",
+    "sqlite3": "^5.1.7"
   }
 }
